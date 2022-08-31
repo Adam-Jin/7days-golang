@@ -2,6 +2,6 @@ module example
 
 go 1.13
 
-require gee v0.0.0
+require day5-middleware/gee v0.0.0
 
-replace gee => ./gee
+replace day5-middleware/gee => ./gee

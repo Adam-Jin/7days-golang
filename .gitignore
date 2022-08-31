@@ -4,3 +4,4 @@
 tmp
 *.db
 *.sum
+gee-cache/day3-http-server/example

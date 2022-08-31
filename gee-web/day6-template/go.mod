@@ -2,6 +2,6 @@ module example
 
 go 1.13
 
-require gee v0.0.0
+require day6-template/gee v0.0.0
 
-replace gee => ./gee
+replace day6-template/gee => ./gee

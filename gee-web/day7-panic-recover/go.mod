@@ -2,6 +2,6 @@ module example
 
 go 1.13
 
-require gee v0.0.0
+require day7-panic-recover/gee v0.0.0
 
-replace gee => ./gee
+replace day7-panic-recover/gee => ./gee

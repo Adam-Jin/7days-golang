@@ -2,6 +2,6 @@ module example
 
 go 1.13
 
-require geecache v0.0.0
+require day7-proto-buf/geecache v0.0.0
 
-replace geecache => ./geecache
+replace day7-proto-buf/geecache => ./geecache
