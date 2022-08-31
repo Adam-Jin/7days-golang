@@ -1,4 +1,4 @@
-module example
+module day4-group/example
 
 go 1.13
 

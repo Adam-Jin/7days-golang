@@ -1,4 +1,4 @@
-module example
+module day7-panic-recover/example
 
 go 1.13
 

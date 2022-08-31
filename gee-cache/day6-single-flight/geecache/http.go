@@ -1,8 +1,8 @@
 package geecache
 
 import (
+	"day6-single-flight/geecache/consistenthash"
 	"fmt"
-	"geecache/consistenthash"
 	"io/ioutil"
 	"log"
 	"net/http"

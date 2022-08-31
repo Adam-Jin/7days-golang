@@ -1,7 +1,7 @@
 package geecache
 
 import (
-	"geecache/lru"
+	"day2-single-node/geecache/lru"
 	"sync"
 )
 

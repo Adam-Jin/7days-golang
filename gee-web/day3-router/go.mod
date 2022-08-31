@@ -1,4 +1,4 @@
-module example
+module day3-router/example
 
 go 1.13
 

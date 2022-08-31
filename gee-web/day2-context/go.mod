@@ -1,4 +1,4 @@
-module example
+module day2-context/example
 
 go 1.13
 

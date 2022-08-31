@@ -1,7 +1,7 @@
 package geecache
 
 import (
-	"geecache/lru"
+	"day4-consistent-hash/geecache/lru"
 	"sync"
 )
 

@@ -1,8 +1,8 @@
 package geecache
 
 import (
+	"day5-multi-nodes/geecache/consistenthash"
 	"fmt"
-	"geecache/consistenthash"
 	"io/ioutil"
 	"log"
 	"net/http"

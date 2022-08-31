@@ -1,3 +1,3 @@
-module geecache
+module day4-consistent-hash/geecache
 
-go 1.13
+go 1.18

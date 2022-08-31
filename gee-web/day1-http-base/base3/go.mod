@@ -1,4 +1,4 @@
-module example
+module day1-http-base/base3/example
 
 go 1.13
 

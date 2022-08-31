@@ -1,8 +1,8 @@
 package geecache
 
 import (
+	"day6-single-flight/geecache/singleflight"
 	"fmt"
-	"geecache/singleflight"
 	"log"
 	"sync"
 )

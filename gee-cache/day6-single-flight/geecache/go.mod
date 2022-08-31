@@ -1,3 +1,3 @@
-module geecache
+module day6-single-flight/geecache
 
-go 1.13
+go 1.18

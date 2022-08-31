@@ -1,4 +1,4 @@
-module example
+module day6-template/example
 
 go 1.13
 

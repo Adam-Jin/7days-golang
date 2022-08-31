@@ -35,7 +35,7 @@ Traceback:
 import (
 	"net/http"
 
-	"gee"
+	"day7-panic-recover/gee"
 )
 
 func main() {

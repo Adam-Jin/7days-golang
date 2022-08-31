@@ -1,6 +1,6 @@
 module geecache/day3-http-server/example
 
-go 1.13
+go 1.18
 
 require day3-http-server/geecache v0.0.0
 

@@ -1,3 +1,3 @@
-module geecache
+module day5-multi-nodes/geecache
 
-go 1.13
+go 1.18

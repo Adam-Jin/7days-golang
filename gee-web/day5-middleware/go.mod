@@ -1,4 +1,4 @@
-module example
+module day5-middleware/example
 
 go 1.13
 

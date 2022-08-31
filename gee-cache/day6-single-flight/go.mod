@@ -1,6 +1,6 @@
-module example
+module day6-single-flight/example
 
-go 1.13
+go 1.18
 
 require day6-single-flight/geecache v0.0.0
 

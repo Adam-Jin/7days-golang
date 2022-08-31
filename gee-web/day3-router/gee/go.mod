@@ -1,3 +1,3 @@
-module gee
+module day3-router/gee
 
 go 1.13

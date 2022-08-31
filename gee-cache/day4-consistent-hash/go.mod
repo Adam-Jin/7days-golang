@@ -1,6 +1,6 @@
-module example
+module day4-consistent-hash/example
 
-go 1.13
+go 1.18
 
 require day4-consistent-hash/geecache v0.0.0
 
