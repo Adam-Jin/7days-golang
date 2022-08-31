@@ -1,6 +1,6 @@
 module day6-template/example
 
-go 1.13
+go 1.18
 
 require day6-template/gee v0.0.0
 

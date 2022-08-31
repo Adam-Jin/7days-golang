@@ -1,3 +1,3 @@
 module day1-http-base/base3/gee
 
-go 1.13
+go 1.18
